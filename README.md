@@ -1,4 +1,4 @@
-# Wᴇʟᴄᴏᴍᴇ ᴛᴏ  👋
+# Wᴇʟᴄᴏᴍᴇ ᴛᴏ Tɠ_Cყρԋҽɾꨄ︎  👋
 
 </pre>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tg-Cypher&label=Profile%20views&color=129e00&style=plastic" alt="Tg-Cypher" /> </p>
@@ -30,14 +30,12 @@
 
 # ☎️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ
 <p align="left">
-<a href="https://telegram.me/Invisible_Coder"><img alt="Telegram" src="https://img.shields.io/badge/Joelkb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.me/Invisible_Coder"><img alt="Telegram" src="https://img.shields.io/badge/TG-CYPHER-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://telegram.me/Get_Movie_By_Us">
     &nbsp;<img src="https://img.shields.io/badge/Free Movies-Group-blue?style=for-the-badge&logo=telegram" width="200" height="28">&nbsp;
   </a>
 </p>
 </div>
-
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left">
 <b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ 😊</b>
