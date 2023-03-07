@@ -1,4 +1,4 @@
-# Wᴇʟᴄᴏᴍᴇ ᴛᴏ Tɠ_Cყρԋҽɾꨄ︎  👋
+# Wᴇʟᴄᴏᴍᴇ ᴛᴏ Tɠ_Cყρԋҽɾꨄ︎ քʀօʄɨʟɛ  👋
 
 </pre>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tg-Cypher&label=Profile%20views&color=129e00&style=plastic" alt="Tg-Cypher" /> </p>
