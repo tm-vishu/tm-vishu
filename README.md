@@ -3,6 +3,8 @@
 </pre>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tg-Cypher&label=Profile%20views&color=129e00&style=plastic" alt="Tg-Cypher" /> </p>
 
+[![Generic badge](https://img.shields.io/badge/REACH-ME-@<COLOR>.svg)](https://github.com/PredatorHackerzZ)[![telegrambadge](https://img.shields.io/badge/Pʀᴇᴅᴀᴛᴏʀ-30302f?style=flat&logo=telegram)](https://telegram.dog/PredatorHackerzZ)
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
 <b>• 👨‍💻 Lᴀɴɢᴜᴀɢᴇs: Pʏᴛʜᴏɴ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, Gᴏʟᴀɴɢ, C++
 <br>• 📚 Sᴛᴜᴅᴇɴᴛ ᴀɴᴅ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ.</b>
