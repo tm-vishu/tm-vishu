@@ -10,6 +10,8 @@
 ➣ 📚 <b>Tʀʏɪɴɢ 𝟸 Lᴇᴀʀɴ Bᴇᴛᴛᴇʀ </b> 🚶🏻‍♂️
 
 ➣ 🛡 <b>Sƚιʅʅ MîʂƚΑƙҽ Hαρρҽɳʂ</b> 🤷‍♂️
+<br>• 📚 All Social Platform Is Newly Started Except My This GitHub Coding Site..</b>
+
 
 <img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
