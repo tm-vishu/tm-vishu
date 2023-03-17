@@ -36,8 +36,8 @@
 
 # ☎️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ
 <p align="left">
-<a href="https://telegram.me/Invisible_Coder"><img alt="Telegram" src="https://img.shields.io/badge/TG-CYPHER-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://telegram.me/Get_Movie_By_Us">
+<a href="https://telegram.me/Coding_With_Devil"><img alt="Telegram" src="https://img.shields.io/badge/TG-CYPHER-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.me/Cypher_Requests">
     &nbsp;<img src="https://img.shields.io/badge/Free Movies-Group-blue?style=for-the-badge&logo=telegram" width="200" height="28">&nbsp;
   </a>
 </p>
