@@ -10,10 +10,14 @@
 <b>• 👨‍💻 Lᴀɴɢᴜᴀɢᴇs: Pʏᴛʜᴏɴ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, Gᴏʟᴀɴɢ, C++
 <br>• 📚 Sᴛᴜᴅᴇɴᴛ ᴀɴᴅ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ.</b>
 
-➣ 📚 <b>Tʀʏɪɴɢ 𝟸 Lᴇᴀʀɴ Bᴇᴛᴛᴇʀ </b> 🚶🏻‍♂️
+➣ 📚 <b>Tʀʏɪɴɢ 𝟸 Lᴇᴀʀɴ Bᴇᴛᴛᴇʀ. </b> 🚶🏻‍♂️
+
+➣ 📚 <b>му αℓℓ яєρσѕιтσяιєѕ αяє ρяιναтє 
+. gσιηg тσ ρυвℓι¢ ѕσση вυт ∂ση'т кησω ωнєη </b> 🚶🏻‍♂️
 
 ➣ 🛡 <b>Sƚιʅʅ MîʂƚΑƙҽ Hαρρҽɳʂ</b> 🤷‍♂️
-<br>• 📚 All Social Platform Is Newly Started Except My This GitHub Coding Site..</b>
+<br>• 📚 All Social Platform Is Newly Started Except My This GitHub Cod
+ing Site..</b>
 
 
 <img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
