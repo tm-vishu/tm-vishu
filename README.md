@@ -23,8 +23,8 @@ ing Site..</b>
 <img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
 ## 🌐 Sᴏᴄɪᴀʟs:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tg_cypher) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iam_tg_cypher) 
-<a href="https://youtube.com/@TG_Cypher"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tm_vishu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tm-vishu) 
+<a href="https://youtube.com/@Tm-vishu"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 # 💻 Tᴇᴄʜ Sᴛᴀᴄᴋ:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 # 📊 GɪᴛHᴜʙ Sᴛᴀᴛs :
@@ -43,11 +43,7 @@ ing Site..</b>
 
 # ☎️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ
 <p align="left">
-<a href="https://telegram.me/Devil_Programmers"><img alt="Telegram" src="https://img.shields.io/badge/TG-CYPHER-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://telegram.me/Cypher_Requests">
-    &nbsp;<img src="https://img.shields.io/badge/Free Movies-Group-blue?style=for-the-badge&logo=telegram" width="200" height="28">&nbsp;
-  </a>
-</p>
+<a href="https://telegram.me/VIRAT_Dhoni"><img alt="Telegram" src="https://img.shields.io/badge/TM-Vishu-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
 <p align="left">
 <b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ ⭐😊</b>
